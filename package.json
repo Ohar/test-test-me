@@ -1,0 +1,15 @@
+{
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/Ohar/Proveryator.git"
+  },
+  "scripts": {
+    "test": "mocha -w"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3",
+    "test.me": "*"
+  }
+}
